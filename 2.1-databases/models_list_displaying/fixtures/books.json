@@ -16,5 +16,86 @@
       "author": "Джордж Оруэл",
       "pub_date": "2016-12-06"
     }
+  },
+  {
+    "model": "books.book",
+    "pk": 3,
+    "fields": {
+      "name": "Улисс",
+      "author": "Джеймс Джойс",
+      "pub_date": "2016-12-08"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 4,
+    "fields": {
+      "name": "Лолита",
+      "author": "Владимир Набоков",
+      "pub_date": "2016-12-13"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 5,
+    "fields": {
+      "name": "Звук и ярость",
+      "author": "Уильям Фолкнер",
+      "pub_date": "2016-12-14"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 6,
+    "fields": {
+      "name": "Человек-невидимка",
+      "author": "Ральф Эллисон",
+      "pub_date": "2018-02-10"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 7,
+    "fields": {
+      "name": "На маяк",
+      "author": "Вирджиния Вулф",
+      "pub_date": "2018-02-16"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 8,
+    "fields": {
+      "name": "Джейн Остен",
+      "author": "Гордость и предубеждение",
+      "pub_date": "2018-02-23"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 9,
+    "fields": {
+      "name": "Мидлмарч",
+      "author": "Джордж Элиот",
+      "pub_date": "2018-02-24"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 10,
+    "fields": {
+      "name": "О дивный новый мир",
+      "author": "Олдос Хаксли",
+      "pub_date": "2018-02-25"
+    }
+  },
+  {
+    "model": "books.book",
+    "pk": 11,
+    "fields": {
+      "name": "Исповедь",
+      "author": "Блаженный Августин",
+      "pub_date": "2018-02-28"
+    }
   }
 ]
